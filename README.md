@@ -1,0 +1,2 @@
+# Car-Rental-Android-App
+An Android app for a university car rental system, built using Java, SQLite and Android Studio, adhering to Agile methodoloy and an MVC architecture design. The app supports full login, registration, time scheduling algorithms to manage rentals, 3 different user profiles with role-based privilege allocation (cutomer, manager, admin). This is a team project for CSE 5324: Software Development for graduates.
